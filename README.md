@@ -50,7 +50,7 @@ The project is structured into several key sections:
 
 ## How to Use This Repository
 - **Code Structure:** The repository contains Jupyter notebooks or Python scripts for each analysis section (preprocessing, statistical analysis, machine learning).
-- **Requirements:** Install dependencies via `requirements.txt` (e.g., `pip install -r requirements.txt`).
+- **Requirements:** Install dependencies.
 - **Data:** create a data folder and add the dataset into it.
 - **Running the Analysis:** Execute the scripts in order (preprocessing → statistical analysis → machine learning) to replicate the results.
 
